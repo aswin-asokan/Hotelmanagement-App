@@ -21,3 +21,6 @@ This is a simple java application for managing purchases, sales, and staff detai
 | ![rent](https://github.com/aswin-asokan/Hotelmanagement-App/assets/86108610/e3cd665a-3561-4b96-aa3e-c9eead8c53ae) | ![reservation](https://github.com/aswin-asokan/Hotelmanagement-App/assets/86108610/86596a03-b867-4385-be0b-78cf9285dc80) |
 | ![booking](https://github.com/aswin-asokan/Hotelmanagement-App/assets/86108610/6dd4206f-d350-4dcd-aaee-057bb8b2c14a) | ![checkout](https://github.com/aswin-asokan/Hotelmanagement-App/assets/86108610/6036fd30-e1dc-4e24-a91f-315c014f7c60) |
 | ![report](https://github.com/aswin-asokan/Hotelmanagement-App/assets/86108610/4334679f-3f8a-4034-9a45-6a6e81e591b5) |
+
+### Credits
+All the images used in this project is made by various creators in Freepik
